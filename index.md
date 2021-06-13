@@ -4,7 +4,6 @@ Documentation under construction.
 pavel still being schooled.
 
 Please check back in a while.
-
 <script>
   window.watsonAssistantChatOptions = {
       integrationID: "a5ac8bdb-0615-402d-9a41-0f89bff8a695", // The ID of this integration.
